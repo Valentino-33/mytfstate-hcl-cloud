@@ -1,0 +1,4 @@
+ip publica de ec2 44.201.224.157 
+ip publica de ec2 34.227.60.143 
+ip publica de ec2 3.80.106.76 
+ip publica de ec2 54.90.85.249 
