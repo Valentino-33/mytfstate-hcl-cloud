@@ -1,4 +1,4 @@
-# VPC DEFAULT PARA INFRA
+# VPC DEFAULT PARA INFRA # TEST TERRAFORM CLOUD
 
 resource "aws_vpc" "vpc_virginia" {
   cidr_block = var.virginia_cidr
