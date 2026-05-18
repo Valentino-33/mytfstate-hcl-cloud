@@ -68,3 +68,12 @@ variable "sg_apache_ports" {
   type        = list(number)
   description = "Puertos para servidor HTTP APACHE"
 }
+
+## Terraform cloud ## 
+
+variable "acces_key" {
+}
+
+variable "secret_key" {
+}
+
