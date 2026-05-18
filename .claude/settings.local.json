@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-Command *)",
+      "PowerShell(winget search *)",
+      "PowerShell(winget install *)",
+      "PowerShell(infracost *)",
+      "PowerShell(infracost breakdown *)"
+    ]
+  }
+}

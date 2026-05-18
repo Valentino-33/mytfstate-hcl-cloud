@@ -7,7 +7,7 @@
 variable "instancias_ind" {
   description = "Estos son los nombres de las instancias a crear"
   type        = set(string)
-  default     = ["apache"]
+  default     = ["apache", "docker", "cache", "n8n"]
 }
 
 
